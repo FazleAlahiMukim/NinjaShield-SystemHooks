@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34916.146
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OutlookMonitor", "OutlookMonitor\OutlookMonitor.csproj", "{265219BA-96FB-4ED4-A391-7D1E68A98C1B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{265219BA-96FB-4ED4-A391-7D1E68A98C1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{265219BA-96FB-4ED4-A391-7D1E68A98C1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{265219BA-96FB-4ED4-A391-7D1E68A98C1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{265219BA-96FB-4ED4-A391-7D1E68A98C1B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7EE383B4-FE8F-4AA2-B2D5-A6EAAA0B85D5}
+	EndGlobalSection
+EndGlobal
