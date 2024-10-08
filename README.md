@@ -1,4 +1,4 @@
-# NinjaShield - AdminBackend
+# NinjaShield - SystemHooks
 
 We have 4 repositories for our project.
 
